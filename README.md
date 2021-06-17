@@ -10,5 +10,5 @@ The User Interface was designed using the Streamlit module from Python.
 It is a minimalistic web app, where users can upload, either an image or a video.
 The app can make predictions for both image as well as a video.
 The time taken for prediction from Video can be improved, by using a GPU based processor.
-![image](https://user-images.githubusercontent.com/43439398/122371974-eaad0000-cf7d-11eb-9fbd-acbc5f7d9aeb.png)
+
 ![image](https://user-images.githubusercontent.com/43439398/122372015-f39dd180-cf7d-11eb-8063-373c267b3863.png)
